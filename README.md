@@ -35,7 +35,7 @@ This should validate the form:
 ## Add Display/Edit Form
 - [X] Make a page that shows some information about the pet: Name, Species, Photo (if present), Age (if present)
 - [X] It should also show a form that allows us to edit this pet: Photo URL, Notes, Available
-- [X]This should be at the URL /[pet-id-number]. Make the homepage link to this.
+- [X] This should be at the URL /[pet-id-number]. Make the homepage link to this.
 
 ## Handle Edit Form
 This should validate the form:
